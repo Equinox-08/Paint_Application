@@ -39,4 +39,4 @@ python paint_application.py
 
 7. **Screenshot of the whole UI design:**
 
-<img src="screenshot.png" alt="Atelier Studio Paint Full UI" width="850" />
+<img src="Screenshot.png" alt="Atelier Studio Paint Full UI" width="850" />
