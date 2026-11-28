@@ -97,4 +97,4 @@ Result
 
 7. **Screenshot of the whole UI design:**
 
-<img src="CT 5/Draw1.png" alt="Full UI Image" width="850" />
+<img src="CT 5/SS.png" alt="Full UI Image" width="850" />
