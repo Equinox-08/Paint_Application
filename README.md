@@ -87,6 +87,14 @@ Result
 6. **Quick colors:**
    Instead of always opening the full color picker, ma'am, I added a Quick Colors bar right below the main toolbar with six one-click buttons: **Black**, **Red**, **Blue**, **Green**, **Yellow**, and **Purple**. Clicking any of them immediately switches my active color (and automatically switches back to the brush if I was using the eraser).
 
+Code
+
+<img src="CT 5/ColorsC.png" alt="Result Brush" width="400" />
+
+Result
+
+<img src="CT 5/ColorsR.png" alt="Result Brush" width="500" />
+
 7. **Screenshot of the whole UI design:**
 
 <img src="CT 5/Draw1.png" alt="Full UI Image" width="850" />
