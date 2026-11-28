@@ -1,6 +1,9 @@
-# Atelier — Studio Paint
+# Paint Application
+Name: Adrian J. Tor <br>
+Section: BS INFORTECH SE - 3A
 
-A desktop Paint application built with Python, **Tkinter**, and **Pillow (PIL)** featuring a custom dark studio interface, live shape previewing, undo history, and image import/export.
+## Description
+A desktop Paint application built with Python, **Tkinter**, and **Pillow (PIL)** featuring a custom dark studio interface, live shape previewing, undo history, and image import/export. 
 
 ## Setup & Run
 
@@ -22,6 +25,11 @@ python paint_application.py
 1. **Bigger brush range:**
    So, what I did here, ma'am, was change the brush size slider range from `1` to `30` up to `1` to `100` so I can draw with much thicker strokes. I also added a helper function (`draw_pillow_stroke`) that adds rounded caps to the Pillow lines so that when I save the drawing, the size and smooth look match what's on the Tkinter canvas.
 
+<img src="Screenshot.png" alt="Atelier Studio Paint Full UI" width="850" />
+
+<img src="Screenshot.png" alt="Atelier Studio Paint Full UI" width="850" />
+
+
 2. **Undo button:**
    For the Undo feature, ma'am, I made an `undo_stack` list that saves a snapshot of the canvas right before I start drawing, clearing, or opening an image. Whenever I click the **Undo** button, it simply pops the last saved snapshot and brings it back—so whether it was a freehand brush stroke or a shape, it removes my latest action cleanly.
 
@@ -39,4 +47,4 @@ python paint_application.py
 
 7. **Screenshot of the whole UI design:**
 
-<img src="Screenshot.png" alt="Atelier Studio Paint Full UI" width="850" />
+<img src="Screenshot.png" alt="Full UI Image" width="850" />
