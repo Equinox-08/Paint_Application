@@ -52,6 +52,11 @@ Result
 3. **Filled shapes:**
    Here, ma'am, I added a **Fill: OFF / ON** toggle button so I can switch between outline-only shapes and solid filled shapes. When it's toggled ON, both the live preview while dragging and the final shape saved on the Pillow image get filled with whatever color I currently have selected.
 
+
+
+4. **Extra shape tool:**
+   Aside from Line, Rectangle, and Oval, ma'am, I added a **Triangle** tool. I calculated the three corner points based on where I drag the mouse so it shows a live triangle preview as I drag, and once I release the mouse button, it saves the triangle directly onto the Pillow image.
+
 Code
 
 <img src="CT 5/shapeCode1.png" alt="Result Brush" width="400" />
@@ -61,9 +66,6 @@ Code
 Result
 
 <img src="CT 5/resultCode.png" alt="Result Brush" width="500" />
-
-4. **Extra shape tool:**
-   Aside from Line, Rectangle, and Oval, ma'am, I added a **Triangle** tool. I calculated the three corner points based on where I drag the mouse so it shows a live triangle preview as I drag, and once I release the mouse button, it saves the triangle directly onto the Pillow image.
 
 5. **Confirm before clearing:**
    To avoid accidentally deleting my drawing, ma'am, I updated the `clear_canvas()` function to pop up a confirmation box using `messagebox.askyesno()` with **Yes** and **No** buttons. It only wipes the canvas clean if I click **Yes**.
