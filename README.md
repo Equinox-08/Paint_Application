@@ -1,4 +1,4 @@
-<img width="362" height="346" alt="image" src="https://github.com/user-attachments/assets/25e82cfe-5500-4f74-a9aa-e9b84ffaa84b" /># Paint Application
+# Paint Application
 Name: Adrian J. Tor <br>
 Section: BS INFORTECH SE - 3A
 
