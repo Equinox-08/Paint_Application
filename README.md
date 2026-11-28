@@ -47,4 +47,4 @@ python paint_application.py
 
 7. **Screenshot of the whole UI design:**
 
-<img src="Draw 1.png" alt="Full UI Image" width="850" />
+<img src="Draw1.png" alt="Full UI Image" width="850" />
