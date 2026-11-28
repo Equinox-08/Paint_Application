@@ -76,6 +76,16 @@ Result
 5. **Confirm before clearing:**
    To avoid accidentally deleting my drawing, ma'am, I updated the `clear_canvas()` function to pop up a confirmation box using `messagebox.askyesno()` with **Yes** and **No** buttons. It only wipes the canvas clean if I click **Yes**.
 
+Code
+
+<img src="CT 5/shapeCode1.png" alt="Result Brush" width="400" />
+
+<img src="CT 5/shapeCode2.png" alt="Result Brush" width="400" />
+
+Result
+
+<img src="CT 5/resultCode.png" alt="Result Brush" width="500" />
+
 6. **Quick colors:**
    Instead of always opening the full color picker, ma'am, I added a Quick Colors bar right below the main toolbar with six one-click buttons: **Black**, **Red**, **Blue**, **Green**, **Yellow**, and **Purple**. Clicking any of them immediately switches my active color (and automatically switches back to the brush if I was using the eraser).
 
